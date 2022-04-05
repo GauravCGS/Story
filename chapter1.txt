@@ -1,3 +1,3 @@
 Somewhere in a jungle,
-Lion: I am the king, all should obey me.
-Elephant: I am the largest land animal, why should I obey you.
+Lion: Hey Elephant you are the king of Jungle.
+Elephant: I am the largest land animal,I am the king.
